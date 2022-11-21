@@ -1,6 +1,6 @@
 # EDA-MTA Traffic & Citibike Capacity
 
-For full Power Point presentation, click [here.]()
+For full presentation, click [here.]()
 
 ## **Abstract**
 
