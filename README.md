@@ -1,6 +1,6 @@
 # Where should Citi Bike build the next 10 bike docks?
 
-For full presentation, click [here.]()
+For full presentation, click [here.](https://github.com/riwasabri/Where-should-Citi-Bike-build-the-next-10-bike-docks-/blob/master/EDA-Presentation.pdf)
 
 ## **Abstract**
 
